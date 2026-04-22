@@ -1,1 +1,1 @@
-Basic to intermediate pythom program for new learners.
+Basic to intermediate python programs for new learners.
