@@ -1,0 +1,7 @@
+def km_to_miles(km):
+    miles = km * 0.621371
+    return miles
+
+kilometers = 10
+miles = km_to_miles(kilometers)
+print(f"{kilometers} km is equal to {miles:.2f} miles")
