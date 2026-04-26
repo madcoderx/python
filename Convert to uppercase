@@ -1,0 +1,3 @@
+s = "Hello World"
+upper_s = s.upper()
+print(upper_s)
